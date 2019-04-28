@@ -8,7 +8,7 @@ package com.tetris.domain;
  * 
  * This class is used to accept the user inputs
  * 
- * X- is the Lenght /widht at which the user expects
+ * X- is the Length /widht at which the user expects
  * 
  * Y - height at which the user expects
  *

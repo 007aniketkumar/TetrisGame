@@ -225,6 +225,8 @@ while(true) {
 	 * [1 1 1]
 	 * [0 1 0]
 	 * 
+	 * 
+	 * To do , merge the print methods 
 	 */
 	static void print(int[][] input) {
 		System.out.println("INPUT LENGH" + input.length);

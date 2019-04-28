@@ -8,6 +8,8 @@ import java.util.Map;
 
 /**
  * @author aniket
+ * 
+ * Any input  shape can be added in the below class
  *
  */
 public  class Tetrimo {
