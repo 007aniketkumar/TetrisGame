@@ -16,11 +16,12 @@ import java.io.InputStreamReader;
  * The array is initialized with 0,0 entries at each x,y locations
  * 
  * 
+ * 
  *
  */
 public class TetrisBoard {
 
-	static int heightofBoard =6;
+	static int heightofBoard =6;//this can also be taken as user input
 	static int lengthofBoard =5;
 	
 	static int userPoints =0;
